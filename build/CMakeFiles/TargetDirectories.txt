@@ -1,0 +1,3 @@
+/home/andrea/ejer_linux/ejerci_puntos/build/CMakeFiles/main_exe.dir
+/home/andrea/ejer_linux/ejerci_puntos/build/CMakeFiles/edit_cache.dir
+/home/andrea/ejer_linux/ejerci_puntos/build/CMakeFiles/rebuild_cache.dir
